@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-customelement-disconnected",
+  "version": "1.0.0",
+  "description": "Easy, drop-in solution to hook Custom Elements' disconnection lifecycle into RxJs pipelines",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccjmne/rxjs-customelement-disconnected.git"
+  },
+  "keywords": [
+    "rxjs",
+    "custom-element",
+    "customelement",
+    "lifecycle",
+    "disconnectedCallback",
+    "hook",
+    "integration",
+    "drop-in"
+  ],
+  "author": "Eric NICOLAS <ccjmne@gmail.com> (ccjmne)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ccjmne/rxjs-customelement-disconnected/issues"
+  },
+  "homepage": "https://github.com/ccjmne/rxjs-customelement-disconnected#readme"
+}
